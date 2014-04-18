@@ -11,10 +11,6 @@
 
   <artifactId>integration-test</artifactId>
 
-  <properties>
-    <sonar.jacoco.reportPath>${project.basedir}/../target/jacoco.exec</sonar.jacoco.reportPath>
-  </properties>
-
   <dependencies>
 
     <dependency>
